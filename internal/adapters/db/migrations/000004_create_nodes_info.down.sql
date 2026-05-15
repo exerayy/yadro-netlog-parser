@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS nodes_info CASCADE;

@@ -1,0 +1,5 @@
+log_level: DEBUG
+port: 8080
+timeout: 5s
+db_address: postgres://postgres:password@localhost:5432/postgres
+data_dir: data
